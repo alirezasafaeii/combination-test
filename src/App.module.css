@@ -1,0 +1,14 @@
+.appContainer {
+  text-align: center;
+  background-color: antiquewhite;
+}
+.customButton {
+  background-color: lightblue;
+  color: black;
+  border: 1px solid lightblue;
+  border-radius: 3px;
+  padding: 2vh;
+  margin: 3vh;
+  cursor: pointer;
+  font-weight: 400;
+}

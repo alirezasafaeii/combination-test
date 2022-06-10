@@ -1,0 +1,8 @@
+.homeContainer {
+  min-height: max-content;
+  width: 960px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding: 10vh;
+}
